@@ -1,4 +1,98 @@
 baseURL = "https://inspiring-varahamihira-c08b03.netlify.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Just Stay In Bed"
 theme = "infinity-hugo"
+removePathAccents = true
+[params]
+
+# Navigation
+[params.navigation]
+logo = "images/logo.png"
+home = "Home"
+about = "About"
+service = "Services"
+contact = "Contact"
+
+# Hero Area
+[params.hero]
+enable            = true
+bg                = "images/header-bg.png"
+title             = "WE FIND THE BEST STUFF FOR SLEEP"
+subtitle          = "Brilliant, innovative sleep products are our game. Why? Because who doesn't love to sleep? We look at everything from the best mattresses, bedding, sleep tech and beyond. How long until you get the perfect night of sleep?"
+btnText           = "Get Started"
+disableCountdown  = false
+
+countdownYear = "2020"
+countdownMonth = "12"
+countdownDay  = "31"
+
+# About Section
+[params.about]
+enable      = true
+heading     = "We work with the most interesting brands from the sleep sector to bring the best products to you."
+description = "On average, we spend about 26 years of our life sleeping, which equates to 9,490 days or 227,760 hours. Surprisingly, we also spend 7 years trying to get to sleep. Sleep is a vital, often neglected, component of our health and well-being. It enables the body to repair itself as well as giving the mind time to rest. Getting adequate rest may also help improve health and prevent illnesses. Sleep, good sleep in particular, is key."
+
+
+[[params.about.sliderItem]]
+image   = "images/about/1a.png"
+[[params.about.sliderItem]]
+image   = "images/about/2b.png"
+[[params.about.sliderItem]]
+image   = "images/about/3b.png"
+[[params.about.sliderItem]]
+image   = "images/about/5.png"
+
+
+# Service Section
+[params.service]
+enable      = true
+title       = "Better Sleep. Period"
+subtitle    = "It's not just about beauty sleep. It's about your mind, your body, your life."
+[[params.service.serviceItem]]
+# give icon(themefisher icon font), title, description
+# more about themefisher icon font visit https://github.com/themefisher/themefisher-font
+# use delay for reveal items one by one
+icon    = "tf-strategy"
+title   = "Mattresses"
+description = "Organic latex, memory, cooling, hybrid, etc."
+delay   = "0s"
+
+[[params.service.serviceItem]]
+# give icon(themefisher icon font), title, description
+# more about themefisher icon font visit https://github.com/themefisher/themefisher-font
+# use delay for reveal items one by one
+icon    = "tf-circle-compass"
+title   = "Sleep Tech"
+description = "Coming Soon."
+delay   = "0.1s"
+
+[[params.service.serviceItem]]
+# give icon(themefisher icon font), title, description
+# more about themefisher icon font visit https://github.com/themefisher/themefisher-font
+# use delay for reveal items one by one
+icon    = "tf-globe"
+title   = "Bedding"
+description = "Coming soon."
+delay   = "0.1s"
+
+[[params.service.serviceItem]]
+# give icon(themefisher icon font), title, description
+# more about themefisher icon font visit https://github.com/themefisher/themefisher-font
+# use delay for reveal items one by one
+icon    = "tf-anchor2"
+title   = "Furniture"
+description = "Coming soon."
+delay   = "0.1s"
+
+
+# Call to Action Section
+[params.cta]
+enable      = true
+bg          = "images/call-to-action.jpg"
+title       = "Subscribe to our mailing list"
+subtitle    = "Stay up to date on our latest news and developments"
+
+[params.contact]
+enable      = true
+title       = "Get In Touch"
+subtitle    = "Want to work with us? Get in touch now!"

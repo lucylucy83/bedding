@@ -1,0 +1,27 @@
+{{ partial "header.html" . }}
+<a class="navbar-brand float-none float-lg-left" href="http://localhost:1313/">
+            <img src="/images/logo.png" alt="logo">
+</a>
+<!-- page-title -->
+<section class="container pt-3">
+  <div class="container">
+    <div class="row">
+         <h1><font color="black">{{ .Title }}</font></h1> 
+    </div>
+  </div>
+</section>
+<!-- /page-title -->
+
+<!-- blog single -->
+<div class="container">
+	{{ .Content }}
+	<br>
+</div>
+<!-- /blog single -->
+
+{{ partial "call-to-action.html" . }}
+
+{{ partial "footer.html" . }}
+
+_____
+

@@ -281,6 +281,12 @@ a:active {
   background: #f8f8f8;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .hero-area {
   background-size: cover;
   background-attachment: fixed;
