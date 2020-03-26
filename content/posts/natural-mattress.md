@@ -2,7 +2,7 @@
 title: Why a Natural Mattress is a Healthier Mattress
 date: 2019-05-14T08:46:10.000+00:00
 description: 'There are a myriad of reasons why a natural mattress is healthier than one made from petrochemicals. Find out what is in PlushBeds mattresses and what is not. '
-shoplink: https://www.google.com
+shoplink: https://bit.ly/plushbedsstore
 hero:
   bg: /images/sleepinglady.jpg 
   h1: black
