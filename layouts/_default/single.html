@@ -1,8 +1,86 @@
-{{ partial "header.html" . }}
-{{ partial "hero-area.html" . }}
-<a class="navbar-brand float-none float-lg-left" href="http://localhost:1313/">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title> Just Stay In Bed </title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="generator" content="Hugo 0.58.0">
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Droid+Serif:400i|Source+Sans+Pro:300,400,600,700" rel="stylesheet">
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="http://localhost:1313/css/bootstrap.min.css">
+    <link rel="stylesheet" href="http://localhost:1313/css/themefisher-fonts.css">
+    <link rel="stylesheet" href="http://localhost:1313/css/font-awesome.min.css">
+    <link rel="stylesheet" href="http://localhost:1313/css/owl.carousel.css">
+    <link rel="stylesheet" href="http://localhost:1313/css/animate.css">
+    <link rel="stylesheet" href="http://localhost:1313/css/style.css">
+    <!-- Responsive Stylesheet -->
+    <link rel="stylesheet" href="http://localhost:1313/css/responsive.css">
+</head>
+
+<div id="preloader" style="display: none;">
+    <div class="book">
+        <div class="book__page"></div>
+        <div class="book__page"></div>
+        <div class="book__page"></div>
+    </div>
+</div>
+
+<div class="container">
+    <nav class="navbar navbar-fixed-top  navigation " id="top-nav">
+        <a class="navbar-brand float-none float-lg-left" href="http://localhost:1313/">
             <img src="/images/logo.png" alt="logo">
-</a>
+        </a>
+        <a class="navbar-toggler hidden-lg-up float-lg-right" type="button" data-toggle="collapse" data-target="#navbarResponsive">
+            <i class="tf-ion-android-menu"></i>
+        </button>
+    </nav>
+</div class="container">
+    <nav class="navbar navbar-fixed-top  navigation " id="top-nav">
+      {{ with .Params.shoplink}}
+      <a class="btn btn-home navbar-brand float-none float-lg-right" href="{{ . }}">
+        Shop Now!
+      </a>
+      {{ end }}
+    </nav>
+<div class="container">
+
+</div>
+{{ partial "header.html" . }}
+
+
+<section id="{{ i18n "home" | urlize }}" class="hero-area" style='{{ with .Params.hero.bg }} background-image:url("{{ . }}") {{ end }};'>
+        <div class="container">
+            <div class="row">
+                
+                    <div class="block">
+                    <center>
+                        {{ with .Title }}
+                        <h1 class="wow fadeInDown" data-wow-delay="0.3s" data-wow-duration=".2s" {{ with $.Params.hero.h1 }}style="color:{{ . }}"{{ end }} >
+                            {{ . }}
+                        </h1>
+                        {{ end }}
+                        {{ with .Description }}
+                        <p class="wow fadeInDown" data-wow-delay="0.5s" data-wow-duration=".5s" {{ with $.Params.hero.description }}style="color:{{ . }}"{{ end }}>
+                            {{ . }}
+                        </p>
+                        {{ end }}
+                        {{ with .Params.hero.btnText }}
+                        <div class="wow fadeInDown" data-wow-delay="0.7s" data-wow-duration=".7s">
+                            <a class="btn btn-home" href="{{ $.Params.link }}" role="button">
+                                {{ . }}
+                            </a>
+                        </div>
+                        {{ end }}
+                    </center>
+                    </div>
+        
+            </div>
+            <!-- .row close -->
+        </div>
+        <!-- .container close -->
+    </section>
+
 <!-- page-title -->
 <section class="container pt-3">
   <div class="container">

@@ -2,10 +2,15 @@
 title: Why a Natural Mattress is a Healthier Mattress
 date: 2019-05-14T08:46:10.000+00:00
 description: 'There are a myriad of reasons why a natural mattress is healthier than one made from petrochemicals. Find out what is in PlushBeds mattresses and what is not. '
+shoplink: https://www.google.com
+hero:
+  bg: /images/sleepinglady.jpg 
+  h1: black
+  description: black
+  btnText: Try it now
+  link: https://bit.ly/organiclatexmattress
 ---
-<img src="/images/posts/plushbedsone.png" alt="PlushBeds">
-<br>
-<br>
+
 The average person spends eight or more hours, sleeping in their bed, every night. When you think about it, that adds up to one-third of their lifetime. Your mattress is an intimate point of contact, and it could be a huge health risk for you and your family if you’re not using a natural mattress.
 <br>
 <br>
@@ -26,7 +31,8 @@ Some mattresses on the market today, contain chemicals that can have toxic effec
 <li>Nickel</li>
 </ol>
 
-These are all things you certainly don’t want to expose yourself or your family to for eight hours or more every night. Natural mattresses, like any mattress from the Natural Latex Mattress Collection at PlushBeds, contain none of these harmful ingredients. So, you’re not risking your family’s health just by going to sleep at night. That’s something that should help you rest easier.
+These are all things you certainly don’t want to expose yourself or your family to for eight hours or more every night. Natural mattresses, like any mattress from the 
+<a href="https://bit.ly/organiclatexmattress">Natural Latex Mattress</a> Collection at PlushBeds, contain none of these harmful ingredients. So, you’re not risking your family’s health just by going to sleep at night. That’s something that should help you rest easier.
 <br>
 <br>
 <h2>Microbe Resistance</h2>
@@ -62,4 +68,4 @@ Poor sleep is a massive health issue as it correlates to a wide range of chronic
 Also, the natural fibers in natural mattresses, like cotton and wool, regulate your body temperature while you sleep. So, you have plenty to love about the comfortable night’s sleep you’ll get with a natural mattress. Especially when compared to mattresses made with synthetic foam materials that get warm close to the skin, keeping you up at night when you’d rather be sleeping.
 <br>
 <br>
-PlushBeds is dedicated to promoting healthy living for the planet and its people. Our mattresses are made with the finest quality natural ingredients, contain no toxins, and are rigorously tested and inspected to ensure quality. If you want to go the extra mile for your health, consider our luxurious Botanical Bliss Organic Latex Mattress.
+PlushBeds is dedicated to promoting healthy living for the planet and its people. Our mattresses are made with the finest quality natural ingredients, contain no toxins, and are rigorously tested and inspected to ensure quality. If you want to go the extra mile for your health, consider our luxurious <a href="https://bit.ly/organiclatexmattress">Botanical Bliss Organic Latex Mattress</a>.
