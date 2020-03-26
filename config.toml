@@ -1,4 +1,7 @@
 baseURL = "https://www.sleepsuppliers.com"
+aboutlink = "https://www.sleepsuppliers.com#about"
+serviceslink = " "
+contactlink = " "
 languageCode = "en-us"
 title = "Just Stay In Bed"
 theme = "infinity-hugo"
