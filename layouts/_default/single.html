@@ -28,26 +28,26 @@
 
 <div class="container">
     <nav class="navbar navbar-fixed-top  navigation " id="top-nav">
-        <a class="navbar-brand float-none float-lg-left" href="http://localhost:1313/">
-            <img src="/images/logo.png" alt="logo">
+        <a class="navbar-brand float-none float-lg-left" href="{{ .Site.BaseURL }}">
+            {{ with .Site.Params.navigation.logo }}
+            <img src="{{ . }}" alt="logo">
+            {{ end }}
         </a>
-        <a class="navbar-toggler hidden-lg-up float-lg-right" type="button" data-toggle="collapse" data-target="#navbarResponsive">
+        <button class="navbar-toggler hidden-lg-up float-lg-right" type="button" data-toggle="collapse" data-target="#navbarResponsive">
             <i class="tf-ion-android-menu"></i>
         </button>
+        <div class="collapse navbar-toggleable-md" id="navbarResponsive">
+            <ul class="nav navbar-nav menu float-lg-right" id="top-nav">
+                {{ with .Params.shoplink}}
+                  <li class="nav-item">
+                    <a class="btn nav-link" href="{{ . }}" style="background-color:#1bafb4; color:#fff">Shop Now!
+                    </a>
+                  </li>
+                {{ end }}
+            </ul>
+        </div>
     </nav>
-</div class="container">
-    <nav class="navbar navbar-fixed-top  navigation " id="top-nav">
-      {{ with .Params.shoplink}}
-      <a class="btn btn-home navbar-brand float-none float-lg-right" href="{{ . }}">
-        Shop Now!
-      </a>
-      {{ end }}
-    </nav>
-<div class="container">
-
 </div>
-{{ partial "header.html" . }}
-
 
 <section id="{{ i18n "home" | urlize }}" class="hero-area" style='{{ with .Params.hero.bg }} background-image:url("{{ . }}") {{ end }};'>
         <div class="container">

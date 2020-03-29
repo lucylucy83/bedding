@@ -10,7 +10,7 @@ removePathAccents = true
 
 # Navigation
 [params.navigation]
-logo = "images/logo.png"
+logo = "/images/logo.png"
 home = "Home"
 about = "About"
 service = "Services"
