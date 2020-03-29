@@ -12,16 +12,18 @@
                             <p>{{ . }}</p>
                         {{ end }}
                         <div class="col-lg-6 offset-lg-3">
-                            <div class="input-group">
+                            <form name="contact" method="POST" data-netlify="true">
+                              <div class="input-group">
                                 <input
                                   type="text"
                                   class="form-control"
                                   placeholder='{{ i18n "yourEmailAddressHere" }}'
                                 >
                                 <span class="input-group-btn">
-                                    <button class="btn btn-default btn-subscription" type="button">{{ i18n "subscribe" }}</button>
+                                    <button class="btn btn-default btn-subscription" type="submit">Submit</button>
                                 </span>
-                            </div>
+                              </div>
+                            </form>
                         </div>
                     </div>
                 </div>
