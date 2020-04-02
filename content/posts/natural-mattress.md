@@ -40,7 +40,7 @@ These are all things you certainly don’t want to expose yourself or your famil
 Believe it or not, you bring some illnesses to bed with you at night. Things you’re exposed to throughout the day that may not affect you right away can be sweated out into your mattress while you sleep, and trapped there indefinitely. Viruses, bacteria, and more can linger deep inside the folds of traditional mattresses waiting for the time to cause havoc in your life.
 <br>
 <br>
-That isn’t the case with natural mattresses that are antimicrobial by nature, like natural latex mattresses. Additionally, natural latex is mold and mildew resistant, antibacterial, and it repels dust mites. This helps alleviate symptoms of allergies and asthma in many people, on top of the other health benefits it delivers.
+That isn’t the case with natural mattresses that are antimicrobial by nature, like natural latex mattresses. Additionally, <a href="https://sleepsuppliers.com/posts/latex-mattress">natural latex</a> is mold and mildew resistant, antibacterial, and it repels dust mites. This helps alleviate symptoms of allergies and asthma in many people, on top of the other health benefits it delivers.
 <br>
 <br>
 When it comes to natural latex, it is the botanical foam from the Hevea Brasiliensis tree that gives it the properties that makes it naturally resistant to so many things. The good news for you is that it helps to promote better health for you in the process.

@@ -2,8 +2,15 @@
 title: The Benefits of Sleeping on a Natural Latex Mattress
 date: 2020-03-14T08:46:10.000+00:00
 description: 'There are a myriad of reasons why a natural mattress is healthier than one made from petrochemicals. Find out what is in PlushBeds mattresses and what is not. '
+shoplink: https://bit.ly/plushbedsstore
+hero:
+  bg: /images/posts/natural_mattress.png 
+  h1: black
+  description: black
+  btnText: Try it now
+  link: https://bit.ly/organiclatexmattress
 ---
-<img src="/images/posts/natural_mattress.png" alt="PlushBeds" class="center">
+
 <br>
 <br>
 Latex is a natural material derived from the sap of the rubber tree and is then transformed into latex foam used in natural latex mattresses. Latex mattresses offer great comfort and maximum support as they conform instantly to every movement keeping the spine and back in the correct position and relieving pressure points at the same time. Natural latex mattresses have great elasticity, yet they are very durable. A latex mattress will outlast any other conventional, pocket sprung or memory foam mattress. Once you sleep on a natural latex mattress you would not change it for anything else.
