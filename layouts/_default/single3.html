@@ -18,6 +18,7 @@
     <link rel="stylesheet" href="http://localhost:1313/css/responsive.css">
 </head>
 
+
 {{ partial "header.html" . }}
 
 <div id="preloader" style="display: none;">
@@ -27,6 +28,7 @@
         <div class="book__page"></div>
     </div>
 </div>
+
 
 <div class="container">
     <nav class="navbar navbar-fixed-top  navigation " id="top-nav">
@@ -51,47 +53,40 @@
     </nav>
 </div>
 
-<section id="{{ i18n "home" | urlize }}" class="hero-area" style='{{ with .Params.hero.bg }} background-image:url("{{ . }}") {{ end }};'>
-        <div class="container">
-            <div class="row">
-                
-                    <div class="block">
-                    <center>
-                        {{ with .Title }}
-                        <h1 class="wow fadeInDown" data-wow-delay="0.3s" data-wow-duration=".2s" {{ with $.Params.hero.h1 }}style="color:{{ . }}"{{ end }} >
+<div class="container" style="padding-top:80px; padding-bottom:20px">
+    <center>
+     {{ with .Title }}
+        <h1 class="wow fadeInDown" data-wow-delay="0.3s" data-wow-duration=".2s" {{ with $.Params.hero.h1 }}style="color:{{ . }}"{{ end }} >
                             {{ . }}
                         </h1>
                         {{ end }}
-                        {{ with .Description }}
+    {{ with .Description }}
                         <p class="wow fadeInDown" data-wow-delay="0.5s" data-wow-duration=".5s" {{ with $.Params.hero.description }}style="color:{{ . }}"{{ end }}>
                             {{ . }}
                         </p>
                         {{ end }}
-                        {{ with .Params.hero.btnText }}
-                        <div class="wow fadeInDown" data-wow-delay="0.7s" data-wow-duration=".7s">
-                            <a class="btn btn-home" href="{{ $.Params.hero.link }}" role="button">
-                                {{ . }}
-                            </a>
-                        </div>
-                        {{ end }}
-                    </center>
-                    </div>
-        
-            </div>
-            <!-- .row close -->
-        </div>
-        <!-- .container close -->
-    </section>
+</div>
 
-<!-- page-title -->
-<section class="container pt-3">
-  <div class="container">
-    <div class="row">
-         <h1><font color="black">{{ .Title }}</font></h1> 
-    </div>
-  </div>
+  
+
+<section>
+ <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="{{.Params.hero.video}}" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
 </section>
-<!-- /page-title -->
+</div>
+
+
+<div class="container">
+  {{ with .Params.hero.btnText }}
+  <div class="wow fadeInDown" data-wow-delay="0.7s" data-wow-duration=".7s">
+    <center>
+    <a class="btn btn-home" href="{{ $.Params.hero.link }}" role="button">
+      {{ . }}
+    </a>
+    </center>
+  </div>
+  {{ end }}
+</div>
 
 <!-- blog single -->
 <div class="container">
@@ -105,4 +100,6 @@
 {{ partial "footer.html" . }}
 
 _____
+
+
 
