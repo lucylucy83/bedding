@@ -12,7 +12,6 @@ hero:
   link: https://bit.ly/organiclatexmattress
 ---
 <br>
-<br>
 The average person spends eight or more hours, sleeping in their bed, every night. When you think about it, that adds up to one-third of their lifetime. Your mattress is an intimate point of contact, and it could be a huge health risk for you and your family if you’re not using a natural mattress.
 <br>
 <br>
