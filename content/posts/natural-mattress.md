@@ -69,3 +69,8 @@ Also, the natural fibers in natural mattresses, like cotton and wool, regulate y
 <br>
 <br>
 PlushBeds is dedicated to promoting healthy living for the planet and its people. Our mattresses are made with the finest quality natural ingredients, contain no toxins, and are rigorously tested and inspected to ensure quality. If you want to go the extra mile for your health, consider our luxurious <a href="https://bit.ly/organiclatexmattress">Botanical Bliss Organic Latex Mattress</a>.
+<br>
+<br>
+<h2>Not All Organic Mattresses Are Created Equal</h2>
+<br>
+Many mattress manufacturers claim to have toxin free products. However, upon closer examination, it becomes clear that those claims are unfounded. If you'd like to read more about what to know when choosing an organic mattress, <a href="http://bit.ly/organicvid">click here</a>.
