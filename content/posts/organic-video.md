@@ -70,9 +70,9 @@ Also, the natural fibers in natural mattresses, like cotton and wool, regulate y
 <br>
 <br>
 PlushBeds is dedicated to promoting healthy living for the planet and its people. Our mattresses are made with the finest quality natural ingredients, contain no toxins, and are rigorously tested and inspected to ensure quality. If you want to go the extra mile for your health, consider our luxurious <a href="https://bit.ly/organiclatexmattress">Botanical Bliss Organic Latex Mattress</a>.
-
-<h2>Highest Standards</h2>
 <br>
+<br>
+<h2>Highest Standards</h2>
 <br>
 While many mattresses make claims about how they are made and what types of materials aren’t used in the process, PlushBeds mattresses backs up their claims with various certifications. Our certifications are from respected, independent certifying agencies, including:
 <br>
