@@ -1,19 +1,43 @@
 ---
-title: Why a Natural Mattress is a Healthier Mattress
+title: Not All Organic Mattresses Are Made Equal
 date: 2019-05-14T08:46:10.000+00:00
-description: 'There are a myriad of reasons why a natural mattress is healthier than one made from petrochemicals. Find out what is in PlushBeds mattresses and what is not. '
+description: 'Learn how to avoid synthetic blends and other sub-grade materials'
 shoplink: https://bit.ly/plushbedsstore
+layout: single3
 hero:
-  bg: /images/sleepinglady.png 
+  video: https://www.youtube.com/embed/sg8r5woAgxI?autoplay=1
   h1: black
   description: black
   btnText: Try it now
   link: https://bit.ly/organiclatexmattress
 ---
 
+<h2>Highest Standards</h2>
+<br>
+<br>
+While many mattresses make claims about how they are made and what types of materials aren’t used in the process, PlushBeds mattresses backs up their claims with various certifications. Our certifications are from respected, independent certifying agencies, including:
+<br>
+<br>
+<ol>
+<li>Global Organic Latex Standard (latex)</li>
+<li>Global Organic Textile Standard (cotton and wool)</li>
+<li>USDA Organic (latex, cotton, and wool)</li>
+<li>GreenGuard Gold Certification</li>
+<li>Oeko-Tex Standard 100</li>
+<li>Eco-Institut Certification</li>
+<li>Control Union Certification</li>
+<li>Forest Stewardship Council Certification</li>
+</ol>
+<br>
+We believe that by going through the process of meeting multiple standards, we’re providing better products for you, our customers, and the planet. Each certification is one more step in our process of providing quality products that are made ethically, socially conscious, and with safeguarding the planet and the people who call it home as our primary priority.
+<br>
+<br>
+What our certifications let you know is that we back up our claims of purity in our mattresses with rigorous internal testing and external corroboration. It means you can buy our mattresses knowing you’re getting mattresses that are not filled with chemicals and that are safe for you, your significant other, and anyone else in your family to sleep on.
+<br>
+<br>
 The average person spends eight or more hours, sleeping in their bed, every night. When you think about it, that adds up to one-third of their lifetime. Your mattress is an intimate point of contact, and it could be a huge health risk for you and your family if you’re not using a natural mattress.
-<br><br>
-
+<br>
+<br>
 <h2>Absence of Toxic Chemicals</h2>
 <br>
 Some mattresses on the market today, contain chemicals that can have toxic effects on humans, when they off-gas. The list of chemicals is long, and contains many of the following:
@@ -35,7 +59,6 @@ These are all things you certainly don’t want to expose yourself or your famil
 <a href="https://bit.ly/organiclatexmattress">Natural Latex Mattress</a> Collection at PlushBeds, contain none of these harmful ingredients. So, you’re not risking your family’s health just by going to sleep at night. That’s something that should help you rest easier.
 <br>
 <br>
-
 <h2>Microbe Resistance</h2>
 <br>
 Believe it or not, you bring some illnesses to bed with you at night. Things you’re exposed to throughout the day that may not affect you right away can be sweated out into your mattress while you sleep, and trapped there indefinitely. Viruses, bacteria, and more can linger deep inside the folds of traditional mattresses waiting for the time to cause havoc in your life.
@@ -56,7 +79,6 @@ Choosing a natural mattress that offers sufficient comfort and support can make 
 Poor sleep is a massive health issue as it correlates to a wide range of chronic illnesses and health conditions including:
 <br>
 <br>
-
 <ol>
 <li>Type 2 diabetes</li>
 <li>Heart disease</li>
@@ -71,8 +93,3 @@ Also, the natural fibers in natural mattresses, like cotton and wool, regulate y
 <br>
 <br>
 PlushBeds is dedicated to promoting healthy living for the planet and its people. Our mattresses are made with the finest quality natural ingredients, contain no toxins, and are rigorously tested and inspected to ensure quality. If you want to go the extra mile for your health, consider our luxurious <a href="https://bit.ly/organiclatexmattress">Botanical Bliss Organic Latex Mattress</a>.
-<br>
-<br>
-<h2>Not All Organic Mattresses Are Created Equal</h2>
-<br>
-Many mattress manufacturers claim to have toxin free products. However, upon closer examination, it becomes clear that those claims are unfounded. If you'd like to read more about what to know when choosing an organic mattress, <a href="http://bit.ly/organicvid">click here</a>.
