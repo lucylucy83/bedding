@@ -26,7 +26,8 @@ PlushBeds is a leading manufacturer and retailer of natural and organic luxury m
 *“Every time I get into bed, I’m amazed at how wonderful this bed makes me feel. I wake up feeling refreshed and ready to go. I feel silly saying it, but it has really changed my life.”* Deborah L.
 
 ## 100% Organic
-<img src="https://www.plushbeds.com/assets/images/images_aboutus/IMG_02.jpg" alt="PlushBeds" class="TextWrapRight"> PlushBeds mattresses 100% certified organic and maintain some of the industry’s most rigorous standards for organic mattress production. Click here for a full list of PlushBeds certifications.
+<img src="https://www.plushbeds.com/assets/images/images_aboutus/IMG_02.jpg" alt="PlushBeds" class="TextWrapRight"> 
+PlushBeds mattresses 100% certified organic and maintain some of the industry’s most rigorous standards for organic mattress production. Click here for a full list of PlushBeds certifications.
 
 
 **All PlushBeds Mattresses Contain Zero:**
@@ -45,6 +46,8 @@ PlushBeds is a leading manufacturer and retailer of natural and organic luxury m
  - and 10,000 other harmful chemicals
 
 ## Proudly made in the USA
+<img src="https://www.plushbeds.com/assets/images/images_certifications/Certifications_15.jpg" alt="PlushBeds" class="TextWrapLeft"> 
+
 All PlushBeds mattresses are proudly made in the USA with the world's finest domestic and imported natural materials in their state of the art manufacturing facility. By designing and manufacturing their own proprietary mattresses here in the US, Plushbeds are able to oversee every step of the process to ensure that their mattresses are the highest quality available, as well as provide jobs to workers here in the US.
 
 As the manufacturer, PlushBeds is able to cut out the middleman to give you the world's highest quality mattress for the same price their competitors are selling lower quality mattresses for. Engineering and manufacturing their own mattresses also gives PlushBeds a level of expertise that mattress resellers simply can't obtain. Additionally, manufacturing the highest quality mattresses allows PlushBeds to give you the strongest guarantee in the business - a 25 Year Manufacturer's Guarantee.

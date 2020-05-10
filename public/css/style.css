@@ -18,6 +18,7 @@ h5,
 h6 {
   font-weight: 300;
   margin: 0px;
+  margin-bottom: 20px;
 }
 
 h1 {
@@ -46,21 +47,22 @@ p {
   font-size: 16px;
   line-height: 25px;
   margin: 0px;
+  margin-bottom: 25px;
 }
 
 ul {
   padding: 0;
   margin: 0;
-  list-style: none;
+  list-style: disc;
+  margin-left: 50px;
+  margin-bottom: 20px;
 }
 
-li {
-  font-size: 14px;
-  font-weight: 300;
-  line-height: 25px;
-  color: #3b4045;
-  font: 14px/22px 'Cabin', sans-serif, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
+ol {
+  padding: 0;
+  margin: 0;
+  margin-left: 50px;
+  margin-bottom: 20px;
 }
 
 a {
@@ -290,6 +292,12 @@ a:active {
   background: #f8f8f8;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .hero-area {
   background-size: cover;
   background-attachment: fixed;
@@ -360,6 +368,19 @@ a:active {
 .float-none {
   float: none;
 }
+
+.TextWrapRight{
+    float:right;
+    margin:10px;
+    margin-bottom:10px
+}
+
+.TextWrapLeft{
+    float:left;
+    margin:10px;
+    margin-bottom:40px
+}
+
 
 @media only screen and (min-width: 991px) {
   .float-lg-left {
@@ -591,3 +612,5 @@ footer p a:hover {
   color: #fff;
   text-decoration: none;
 }
+
+

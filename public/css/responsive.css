@@ -3,3 +3,7 @@
     background: rgba(0, 0, 0, 0.3); }
     .navigation .navbar-brand {
       float: none; } }
+.responsive {
+  width: 100%;
+  height: auto;
+}
