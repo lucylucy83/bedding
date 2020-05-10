@@ -27,7 +27,7 @@ PlushBeds is a leading manufacturer and retailer of natural and organic luxury m
 
 ## 100% Organic
 <img src="https://www.plushbeds.com/assets/images/images_aboutus/IMG_02.jpg" alt="PlushBeds" class="TextWrapRight"> 
-PlushBeds mattresses 100% certified organic and maintain some of the industry’s most rigorous standards for organic mattress production. Click here for a full list of PlushBeds certifications.
+PlushBeds mattresses 100% certified organic and maintain some of the industry’s most rigorous standards for organic mattress production. [Click here](https://www.sleepsuppliers.com/posts/plushbeds_certifications) for a full list of PlushBeds certifications. 
 
 
 **All PlushBeds Mattresses Contain Zero:**

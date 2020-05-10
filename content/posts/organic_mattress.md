@@ -13,13 +13,17 @@ hero:
 
 
 
-***Did you know that you could be risking your and family’s health just by going to sleep?* Yes, you read that correctly. The very place you come to for refuge at the end of the day, could actually be bad for you!**  
+**Did you know that you could be risking your and family’s health just by going to sleep?** 
+
+Yes, you read that correctly. The very place you come to for refuge at the end of the day, could actually be bad for you!**  
 
 Many mattresses on the market have a slew of harmful toxins. Most mattresses actually, and your mattress may be one of your most significant daily sources of chemical exposure. You spend 8 hours per day, or a third of your life on your mattress! With mattress toxins being so rampant, it’s critical to make sure that your mattress doesn’t contain them.
 
 **First, what’s hiding inside your mattress and why is it so bad for you and your family?**
 
 The list of toxins is pretty scary!:
+
+<img src="/images/posts/toxicmattress.png" alt="PlushBeds" class="TextWrapRight" style="max-width:20%"> 
 
  - Boric acid - often used in the lining of their mattress to prevent bacteria, bed bugs and other pests from lingering.
  - Polybrominated diphenyl ethers (PBDEs) - industrial toxic flame retardant chemicals. No longer produced in the U.S. but are still present in older mattresses.
@@ -58,6 +62,8 @@ It is remarkable that no one is actually letting the public know about this info
 
 ## **How it all started**
 
+<img src="/images/posts/toxicmattresses2.png" alt="PlushBeds" class="TextWrapLeft" style="max-width:20%"> 
+
 Historically, mattresses were made of natural materials. Think animal and plant fibers. However, costs, mass production and comfort pushed for use of synthetic fibers. Since the late '60s, most mattresses have been made of polyurethane foam, a petroleum-based material that emits volatile organic compounds that can cause respiratory problems and skin irritation.
 
 Since 2004, U.S. law requires all mattresses to be fireproof to a specific temperature point. So mattress makers added well known (and unfortunately, toxic) flame retardants to their mattress manufacturing process in order to comply. That’s on top of the toxic cocktail that was already there.
@@ -65,6 +71,9 @@ Since 2004, U.S. law requires all mattresses to be fireproof to a specific tempe
 Recently, organic mattresses have become more popular. However, poor labelling and questionable certification, mean that even “non-toxic” mattresses didn’t guarantee a toxin-free sleep.
 
 ## Why organic isn’t enough
+
+<img src="/images/posts/certified_organic_mattress.png" alt="PlushBeds" class="TextWrapLeft" style="max-width:15%"> 
+
 You’ll find plenty of mattresses labeled “organic” or “natural”, but little guidance on what exactly that means. How can you tell what makes any one of them better than —or even different from another? With prices ranging from a little more than $300 to over $5,000, you’ll end up even more confused! Especially with each mattress manufacturer telling you that they’re the best option.
 
 It’s important to do your due diligence and check which materials your mattress is made of. Look for natural materials like natural latex, cotton, wool, etc.. Most importantly, seek proof that the mattress you purchase and the materials are truly organic. But what should you look for specifically?
@@ -90,6 +99,8 @@ Don’t wait until you start experiencing health issues! Your health is not wort
 
 ## The only downside of fully certified organic mattresses:
 
+<img src="/images/posts/expensive_mattress.png" alt="PlushBeds" class="TextWrapRight" style="max-width:25%"> 
+
 The most common complaint about fully independently certified organic mattresses is the extravagant cost. Natural latex mattresses can cost well into the thousands of dollars since it is one of the most expensive materials available today.
 
 Truly organic natural latex takes effort to produce! It’s made of sap harvested from rubber trees, whipped into a froth and baked into cozy latex layers. Top producers adhere to strict standards to ensure that their latex is 100% organic. They don’t use synthetic fertilizers and pesticides. Their manufacturing methods also ensure that the purity of the final product is not compromised. Arpico latex is considered among the best natural organic latex, but it can be costly.
@@ -99,6 +110,8 @@ Can you put a price on your family’s health and well being?
 Besides, even if you were to spend thousands on a certified organic mattress, it would probably still cost less than dealing with the health issues!
 
 ## We want to help!
+
+<img src="/images/posts/best_value_organic_mattress.png" alt="PlushBeds" class="TextWrapLeft" style="max-width:20%"> 
 
 Sleepsuppliers.com is passionate about helping you make better choices when it comes to your sleep health. We want you to have access to the best truly independently certified organic mattresses. We’ve scoured the globe in an effort to introduce you to the best sleep products and get you the best deals.
 
