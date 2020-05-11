@@ -5,7 +5,7 @@ description:
 shoplink: https://bit.ly/plushbedsstore
 hero:
   bg: /images/plushbeds_best_organic_mattress.png
-  h1: yellow
+  h1: 1bafb4
   description: black
   btnText: Try it now
   link: https://bit.ly/organiclatexmattress
