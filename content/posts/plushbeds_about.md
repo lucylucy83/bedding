@@ -2,7 +2,7 @@
 title: PlushBeds
 date: 2019-05-14T08:46:10.000+00:00
 description:
-shoplink: https://bit.ly/plushbedsstore
+shoplink: https://bit.ly/organiclatexmattress
 hero:
   bg: /images/plushbeds_best_organic_mattress.png
   h1: 1bafb4
@@ -16,14 +16,26 @@ PlushBeds is a leading manufacturer and retailer of natural and organic luxury m
 
 **You’ll be amazed at how well you’ll feel when you upgrade to an organic, restful sleep on a latex mattress.**
 
-'*****'
-*“A truly luxurious and healthy sleeping experience. We sleep on our mattress for one-third of our life. Knowing that our mattress is made with the finest quality organic and natural materials and no chemicals, gives us peace of mind and the best night’s sleep every night.”* Stephen B. Thousand Oaks,* CA
+<!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-'*****'
-*“This mattress is GREAT! I definitely recommend this mattress! I researched a lot and found this to be the best organic mattress that soothes pressure points.. I found it to provide incredible support and it’s amazingly comfortable. Worth every penny because of the healthy, organic materials and the quality of res I now get.”* Sarah R.
+<span class="fa fa-star checked"></span>
+<span class="fa fa-star checked"></span>
+<span class="fa fa-star checked"></span>
+<span class="fa fa-star checked"></span>
+<span class="fa fa-star checked"></span> *“A truly luxurious and healthy sleeping experience. We sleep on our mattress for one-third of our life. Knowing that our mattress is made with the finest quality organic and natural materials and no chemicals, gives us peace of mind and the best night’s sleep every night.”* Stephen B. Thousand Oaks,* CA
 
-'*****'
-*“Every time I get into bed, I’m amazed at how wonderful this bed makes me feel. I wake up feeling refreshed and ready to go. I feel silly saying it, but it has really changed my life.”* Deborah L.
+<span class="fa fa-star checked"></span>
+<span class="fa fa-star checked"></span>
+<span class="fa fa-star checked"></span>
+<span class="fa fa-star checked"></span>
+<span class="fa fa-star checked"></span> *“This mattress is GREAT! I definitely recommend this mattress! I researched a lot and found this to be the best organic mattress that soothes pressure points.. I found it to provide incredible support and it’s amazingly comfortable. Worth every penny because of the healthy, organic materials and the quality of res I now get.”* Sarah R.
+
+<span class="fa fa-star checked"></span>
+<span class="fa fa-star checked"></span>
+<span class="fa fa-star checked"></span>
+<span class="fa fa-star checked"></span>
+<span class="fa fa-star checked"></span> *“Every time I get into bed, I’m amazed at how wonderful this bed makes me feel. I wake up feeling refreshed and ready to go. I feel silly saying it, but it has really changed my life.”* Deborah L.
 
 ## 100% Organic
 <img src="https://www.plushbeds.com/assets/images/images_aboutus/IMG_02.jpg" alt="PlushBeds" class="TextWrapRight"> 
@@ -55,11 +67,11 @@ As the manufacturer, PlushBeds is able to cut out the middleman to give you the 
 [Try it TODAY!](bit.ly/organiclatexmattress)
 
 ## Special Offer:
-Until XXXXX, you can save $1,200 on these top of the line, independently certified organic mattresses! That’s up to 50% off! Click here to be taken to the sale page:
+For the next 72 hours, you can save $1,200 on these top of the line, independently certified organic mattresses! That’s up to 50% off! Click here to be taken to the sale page:
 
 Further, if you buy in the next 24 hours, you’ll get $400 of free bedding.
 
-TRY IT RISK FREE! Take the 100 night challenge! If you’re not happy, you’ll get a full refund.  
+TRY IT RISK FREE! Take the 100 night challenge! If you’re not happy, you’ll get a full refund.
 
 [Click here](bit.ly/organiclatexmattress) to try one of their mattresses, completely risk free.
 <img src="https://www.plushbeds.com/assets/images/images_aboutus/IMG_06.jpg" alt="PlushBeds" class="responsive"> 

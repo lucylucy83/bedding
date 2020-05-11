@@ -3,7 +3,7 @@ title: PlushBeds
 date: 2019-05-14T08:46:10.000+00:00
 description: '
 Less than 1% of Mattresses Can Match Our Purity Certifications.'
-shoplink: https://bit.ly/plushbedsstore
+shoplink: https://bit.ly/organiclatexmattress
 hero:
   bg: /images/posts/aboutplushbeds.jpg
   h1: black
@@ -11,7 +11,7 @@ hero:
   btnText: Try it now
   link: https://bit.ly/organiclatexmattress
 ---
-# Certifications and Tests
+## Certifications and Tests
 
 PlushBeds is committed to providing you with the best and most healthy sleep products on the market. In order to achieve this, PlushBeds ensure that their products and their business meet the high standards of the most rigorous tests and certifications in the industry. Learn more about all oftheircertifications below.
 
@@ -166,3 +166,8 @@ PlushBeds has earned independent accolades for providing some of the best custom
 The Women's Choice Award is a symbol of excellence in customer experience. When you see the Women's Choice Award seal, you know that women in your community and across the nation have rated that business as a business they trust to give you the kind of respect, customer service, and quality you deserve. The [Reverie 5D Adjustable Base](https://www.plushbeds.com/Reverie-5D-adjustable-bed-foundation.html) and [Reverie 8Q Adjustable Base](https://www.plushbeds.com/Reverie-8Q-adjustable-bed-foundation.html) are both recipients of the Women's Choice Award.
 {{% /picture-block %}}
 
+*****
+
+TRY IT RISK FREE! Take the 100 night challenge! If you’re not happy, you’ll get a full refund.
+
+[Click here](bit.ly/organiclatexmattress) to try one of their mattresses, completely risk free.
