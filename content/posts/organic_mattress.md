@@ -23,17 +23,17 @@ Many mattresses on the market have a slew of harmful toxins. Most mattresses act
 
 The list of toxins is pretty scary!:
 
-<img src="/images/posts/toxicmattress.png" alt="PlushBeds" class="TextWrapRight" style="max-width:20%"> 
+<img src="/images/posts/toxicmattress.png" alt="PlushBeds" class="TextWrapRight" style="max-width:25%"> 
 
  - Boric acid - often used in the lining of their mattress to prevent bacteria, bed bugs and other pests from lingering.
  - Polybrominated diphenyl ethers (PBDEs) - industrial toxic flame retardant chemicals. No longer produced in the U.S. but are still present in older mattresses.
- - Formaldehyde - used to make one of the adhesives that hold mattresses together, has been linked to asthma, allergies, and lung, nose, and throat cancers.
+ - [Formaldehyde](https://www.atsdr.cdc.gov/substances/toxsubstance.asp?toxid=39) - used to make one of the adhesives that hold mattresses together, has been linked to asthma, allergies, and lung, nose, and throat cancers.
  - Volatile Organic Compounds (VOCs) - chemicals that are used in the manufacturing process of mattresses. The term “volatile” means that these are chemicals that can easily get into the air that you breathe each day and end up inside of your body.
- - Benzene - known carcinogen that occurs naturally in petroleum, whis makes up polyurethane.
+ - [Benzene](https://www.cdc.gov/biomonitoring/Benzene_FactSheet.html) - known carcinogen that occurs naturally in petroleum, whis makes up polyurethane.
  - Toluene diisocyanates - used to make foams more flexible, thought to be a carcinogen, according to the [National Institutes of Health](https://ntp.niehs.nih.gov/ntp/roc/content/profiles/toluenediisocyanates.pdf).
- - Chromium - respiratory tract irritants and can cause pulmonary sensitization. Chronic inhalation of chromium compounds increases the risk of lung, nasal, and sinus cancer. Severe dermatitis and skin ulcers can result from contact with chromium compounds.
- - Mercury - can be toxic to people's nervous system, lungs and kidneys.
- - Nickel - exposure could lead to serious health effects such as chronic bronchitis, reduced lung function, and cancer of the lung and nasal sinus.
+ - [Chromium](https://www.atsdr.cdc.gov/csem/csem.asp?csem=10&po=10) - respiratory tract irritant and can cause pulmonary sensitization. Chronic inhalation of chromium compounds increases the risk of lung, nasal, and sinus cancer. Severe dermatitis and skin ulcers can result from contact with chromium compounds.
+ - [Mercury](https://www.atsdr.cdc.gov/substances/toxsubstance.asp?toxid=24) - can be toxic to people's nervous system, lungs and kidneys.
+ - [Nickel](https://www.atsdr.cdc.gov/substances/toxsubstance.asp?toxid=44) - exposure could lead to serious health effects such as chronic bronchitis, reduced lung function, and cancer of the lung and nasal sinus.
     
 
 This is just a short list.  A lab in Atlanta analyzed several mattresses made of memory foam material. It found them to emit 61 different types of chemicals, several of them being carcinogens.
@@ -82,6 +82,9 @@ Third-party certifications are key! They will help you to distinguish one mattre
 
 **These certifications should include:**
 
+<img src="/images/posts/organic_mattress_certifications.png" alt="PlushBeds" class="TextWrapRight" style="max-width:30%"> 
+
+
 -   GOTS (Global Organic Textiles Standard) – The world’s standard for [certifying organic textiles](https://www.global-standard.org/), this standard requires strict adherence to environmental safety, human safety, and social standards.
     
 -   GOLS (Global Organic Latex Standard) – The “gold standard,” of [organic latex certifications](https://certifications.controlunion.com/en/certification-programs/certification-programs/gols-global-organic-latex-standard), this certification indicates specific standards were met in the manufacturing of latex for human health, environmental impact, safety, and welfare.
@@ -117,11 +120,18 @@ Sleepsuppliers.com is passionate about helping you make better choices when it c
 
 We are proud to announce that for our readers, we’ve secured a special discount with one of the top independently certified mattress manufacturers!
 
-They are proud recipients of the GreenGuard Gold Certification, a certification that less than 1% of all mattresses receive due to the world's most rigorous chemical emissions standards. This is in addition their GOLS, GOTS, USDA Organic and OEKO-TEX certifications.
+They are proud recipients of the [GreenGuard Gold](http://greenguard.org/en/index.aspx?mobile=true) Certification, a certification that less than 1% of all mattresses receive due to the world's most rigorous chemical emissions standards. This is in addition their GOLS, GOTS, USDA Organic and OEKO-TEX certifications.
 
 We chose them not only for their truly organic mattresses, but also for the countless positive feedback from existing clients. Here is just one example:
 
-'*****' “A truly luxurious and healthy sleeping experience. We sleep on our mattress for one-third of our life. Knowing that our mattress is made with the finest quality organic and natural materials and no chemicals, gives us peace of mind and the best night’s sleep every night.” Stephen B. Thousand Oaks, CA
+ <!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<span class="fa fa-star checked"></span>
+<span class="fa fa-star checked"></span>
+<span class="fa fa-star checked"></span>
+<span class="fa fa-star checked"></span>
+<span class="fa fa-star checked"></span>  “A truly luxurious and healthy sleeping experience. We sleep on our mattress for one-third of our life. Knowing that our mattress is made with the finest quality organic and natural materials and no chemicals, gives us peace of mind and the best night’s sleep every night.” Stephen B. Thousand Oaks, CA
 
 They have 4.9 out of 5 star reviews, A+ with the Better Business Bureau and all mattresses are proudly made in the USA.
 

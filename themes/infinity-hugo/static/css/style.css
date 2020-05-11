@@ -613,4 +613,6 @@ footer p a:hover {
   text-decoration: none;
 }
 
-
+.checked {
+  color: green;
+}

@@ -1,11 +1,11 @@
 ---
 title: PlushBeds
 date: 2019-05-14T08:46:10.000+00:00
-description: 'Say goodbye to chemical-filled sagging foams, and say hello to luxurious, organic sleep for you & your family.'
+description:
 shoplink: https://bit.ly/plushbedsstore
 hero:
-  bg: /images/posts/aboutplushbeds.jpg
-  h1: black
+  bg: /images/plushbeds_best_organic_mattress.png
+  h1: yellow
   description: black
   btnText: Try it now
   link: https://bit.ly/organiclatexmattress
