@@ -1,14 +1,14 @@
 ---
-title: PlushBeds
+title: Why a Natural Mattress is a Healthier Mattress
 date: 2019-05-14T08:46:10.000+00:00
 description: 'Say goodbye to chemical-filled sagging foams, and say hello to luxurious, organic sleep for you & your family.'
-shoplink: https://bit.ly/organiclatexmattress
+shoplink: https://bestbeds.sale/organic
 hero:
-  bg: /images/posts/aboutplushbeds.jpg
+  bg: /images/posts/aboutplushbeds2.jpg
   h1: black
   description: black
   btnText: Try it now
-  link: https://bit.ly/organiclatexmattress
+  link: https://bestbeds.sale/organic
 ---
 
 
@@ -100,6 +100,8 @@ Third-party certifications are key! They will help you to distinguish one mattre
 
 Don’t wait until you start experiencing health issues! Your health is not worth the gamble. Even if you lead a healthy lifestyle, toxic chemicals are now everywhere in our environment. In the 1990’s the Environmental Protection Agency did a landmark study where they found a shocking conclusion: most of our exposure to pollutants happens indoors, from products we choose to use. Since we spend a third of our life in bed, a certified organic mattress greatly reduces your exposure to toxins! And, it’s a very easy and quick, yet very impactful change to make! Easy win!
 
+Natural mattresses have even more health benefits! If you suffer from allergies, [click on this link](https://www.sleepsuppliers.com/microbe_resitant_mattress).
+
 ## The only downside of fully certified organic mattresses:
 
 <img src="/images/posts/expensive_mattress.png" alt="PlushBeds" class="TextWrapRight" style="max-width:25%"> 
@@ -138,4 +140,4 @@ They have 4.9 out of 5 star reviews, A+ with the Better Business Bureau and all 
 
 This is truly one of the best organic mattresses we have come across! [Please click here](https://www.sleepsuppliers.com/posts/plushbeds_about/) to learn more about our partner.
 
-Or if you'd like to take take advantage of the limited time discounted offer today, [click here](https://bit.ly/plushbedsstore)
+Or if you'd like to take take advantage of the limited time discounted offer today, [click here](https://bestbeds.sale/organic)

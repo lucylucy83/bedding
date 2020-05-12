@@ -2,13 +2,13 @@
 title: PlushBeds
 date: 2019-05-14T08:46:10.000+00:00
 description:
-shoplink: https://bit.ly/organiclatexmattress
+shoplink: https://bestbeds.sale/organic
 hero:
   bg: /images/plushbeds_best_organic_mattress.png
   h1: 1bafb4
   description: black
   btnText: Try it now
-  link: https://bit.ly/organiclatexmattress
+  link: https://bestbeds.sale/organic
 ---
 
 
@@ -39,8 +39,15 @@ PlushBeds is a leading manufacturer and retailer of natural and organic luxury m
 
 ## 100% Organic
 <img src="https://www.plushbeds.com/assets/images/images_aboutus/IMG_02.jpg" alt="PlushBeds" class="TextWrapRight"> 
-PlushBeds mattresses 100% certified organic and maintain some of the industry’s most rigorous standards for organic mattress production. [Click here](https://www.sleepsuppliers.com/posts/plushbeds_certifications) for a full list of PlushBeds certifications. 
+PlushBeds mattresses are 100% certified organic and maintain some of the industry’s most rigorous standards for organic mattress production. 
 
+PlushBeds believe's that by going through the process of meeting multiple standards, they’re providing better products for you and the planet. Each certification is one more step in their process of providing quality products that are made ethically, socially consciously.
+
+What Plushbeds' certifications let you know is that they back up their claims of purity in their mattresses with rigorous internal testing and external corroboration. It means you can buy our mattresses knowing you’re getting mattresses that are not filled with chemicals and that are safe for you, your significant other, and anyone else in your family to sleep on.
+
+[Click here](https://www.sleepsuppliers.com/posts/plushbeds_certifications) for a full list of PlushBeds certifications. 
+
+[Click here](https://www.sleepsuppliers.com/posts/best_organic_mattress) to learn about the difference between PlushBeds and other organic mattresses. 
 
 **All PlushBeds Mattresses Contain Zero:**
 

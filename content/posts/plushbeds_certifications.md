@@ -3,13 +3,13 @@ title: PlushBeds
 date: 2019-05-14T08:46:10.000+00:00
 description: '
 Less than 1% of Mattresses Can Match Our Purity Certifications.'
-shoplink: https://bit.ly/organiclatexmattress
+shoplink: https://bestbeds.sale/organic
 hero:
-  bg: /images/posts/aboutplushbeds.jpg
+  bg: /images/posts/plushbeds_certifications.png
   h1: black
   description: black
   btnText: Try it now
-  link: https://bit.ly/organiclatexmattress
+  link: https://bestbeds.sale/organic
 ---
 ## Certifications and Tests
 
@@ -170,4 +170,4 @@ The Women's Choice Award is a symbol of excellence in customer experience. When 
 
 TRY IT RISK FREE! Take the 100 night challenge! If you’re not happy, you’ll get a full refund.
 
-[Click here](bit.ly/organiclatexmattress) to try one of their mattresses, completely risk free.
+[Click here](https://bestbeds.sale/organic) to try one of their mattresses, completely risk free.
