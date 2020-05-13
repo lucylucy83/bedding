@@ -100,7 +100,8 @@ Third-party certifications are key! They will help you to distinguish one mattre
 
 Don’t wait until you start experiencing health issues! Your health is not worth the gamble. Even if you lead a healthy lifestyle, toxic chemicals are now everywhere in our environment. In the 1990’s the Environmental Protection Agency did a landmark study where they found a shocking conclusion: most of our exposure to pollutants happens indoors, from products we choose to use. Since we spend a third of our life in bed, a certified organic mattress greatly reduces your exposure to toxins! And, it’s a very easy and quick, yet very impactful change to make! Easy win!
 
-Natural mattresses have even more health benefits! If you suffer from allergies, [click on this link](https://www.sleepsuppliers.com/posts/microbe-resitant-mattress).
+Further, viruses, bacteria, and more can linger deep inside the folds of traditional mattresses waiting for the time to cause havoc in your life. That isn’t the case with natural mattresses that are antimicrobial by nature, like natural latex mattresses. [Click on this link](https://www.sleepsuppliers.com/posts/microbe-resitant-mattress) to read more about how you can avoid having germs trapped inside your mattress.
+
 
 ## The only downside of fully certified organic mattresses:
 
