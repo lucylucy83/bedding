@@ -1,0 +1,4 @@
+<div class="full-width{{with .Get "class"}} {{ . | safeCSS}}{{end}}"
+     {{ with .Get "style" }}style="{{ . | safeCSS }}"{{end}}>
+{{ .Inner | markdownify }}
+</div>

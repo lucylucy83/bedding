@@ -1,0 +1,9 @@
+<div class="col-sm-6 col-md-4" style="text-align: center; padding-top: 30px;">
+{{with .Get "image"}}<img src="{{ . }}" style="padding-bottom: 30px">{{end}}
+{{with .Get "caption"}}
+  <h4><span style="display: block">
+  {{ . }}
+  </span></h4>
+{{end}}
+{{ .Inner | markdownify }}
+</div>
