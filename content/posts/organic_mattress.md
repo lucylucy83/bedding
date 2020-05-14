@@ -11,8 +11,6 @@ hero:
   link: https://bestbeds.sale/organic
 ---
 
-
-
 **Did you know that you could be risking your and family’s health just by going to sleep?** 
 
 Yes, you read that correctly. The very place you come to for refuge at the end of the day, could actually be bad for you!**  
@@ -67,6 +65,8 @@ It is remarkable that no one is actually letting the public know about this info
 Historically, mattresses were made of natural materials. Think animal and plant fibers. However, costs, mass production and comfort pushed for use of synthetic fibers. Since the late '60s, most mattresses have been made of polyurethane foam, a petroleum-based material that emits volatile organic compounds that can cause respiratory problems and skin irritation.
 
 Since 2004, U.S. law requires all mattresses to be fireproof to a specific temperature point. So mattress makers added well known (and unfortunately, toxic) flame retardants to their mattress manufacturing process in order to comply. That’s on top of the toxic cocktail that was already there.
+
+Organic mattress companies have found a simple way to fireproof: wrapping their bedding in a layer of wool.
 
 Recently, organic mattresses have become more popular. However, poor labelling and questionable certification, mean that even “non-toxic” mattresses didn’t guarantee a toxin-free sleep.
 
