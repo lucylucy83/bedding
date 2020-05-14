@@ -19,8 +19,10 @@ hero:
 <!-- grid -->
 {{% column-grid %}}
 {{% grid-box caption="Free Delivery, Right to Your Door" image="https://www.plushbeds.com/assets/images/images_botanical_bliss_new/image-41.png"%}}
+
 {{% /grid-box %}}
 {{% grid-box caption="Sleep on it for up to a 100-Night Trial" image=src="https://www.plushbeds.com/assets/images/images_botanical_bliss_new/image-42.png"%}}
+
 {{% /grid-box %}}
 {{% grid-box
   caption="Change Your Mind? We’ll pick it up for free, and give you a full refund."
@@ -28,7 +30,14 @@ hero:
 %}}
 
 {{% /grid-box %}}
+{{% grid-box
+  caption="25 Year Manufacturers Warranty"
+  image="https://www.plushbeds.com/assets/images/images_botanical_bliss_new/image-36.jpg"
+%}}
+
+{{% /grid-box %}}
 {{% /column-grid %}}
+
 
 <!-- band -->
 {{% band style="background-color: #1bafb4; height: auto; text-align: center; padding-top: 20px; padding-bottom:10px" %}}
