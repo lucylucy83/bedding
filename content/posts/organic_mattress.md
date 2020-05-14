@@ -102,7 +102,7 @@ Don’t wait until you start experiencing health issues! Your health is not wort
 
 Further, viruses, bacteria, and more can linger deep inside the folds of traditional mattresses waiting for the time to cause havoc in your life. That isn’t the case with natural mattresses that are antimicrobial by nature, like natural latex mattresses. [Click on this link](https://www.sleepsuppliers.com/posts/microbe-resitant-mattress) to read more about how you can avoid having germs trapped inside your mattress.
 
-Natural latex mattresses are also [highly recomended by chiropractors, orthopedic specialists](https://www.sleepsuppliers.com/latex-mattress/#Why_Natural_Latex) and sleep specialists. Natural latex mattresses are believed to provide a better quality of sleep. They give you a feeling that gently cradles the pressure points of your body, which helps to relieve aches and pains & promote deep sleep. 
+Natural latex mattresses are also [highly recomended by chiropractors, orthopedic specialists](https://www.sleepsuppliers.com/posts/latex-mattress/#Why_Natural_Latex) and sleep specialists. Natural latex mattresses are believed to provide a better quality of sleep. They give you a feeling that gently cradles the pressure points of your body, which helps to relieve aches and pains & promote deep sleep. 
 
 
 
