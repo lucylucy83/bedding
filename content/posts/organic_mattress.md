@@ -66,7 +66,7 @@ Historically, mattresses were made of natural materials. Think animal and plant 
 
 Since 2004, U.S. law requires all mattresses to be fireproof to a specific temperature point. So mattress makers added well known (and unfortunately, toxic) flame retardants to their mattress manufacturing process in order to comply. That’s on top of the toxic cocktail that was already there.
 
-Organic mattress companies have found a simple way to fireproof: wrapping their bedding in a layer of wool.
+[Natural mattress](https://www.sleepsuppliers.com/latex-mattress) companies have found a simple way to fireproof: wrapping their bedding in a layer of wool.
 
 Recently, organic mattresses have become more popular. However, poor labelling and questionable certification, mean that even “non-toxic” mattresses didn’t guarantee a toxin-free sleep.
 
@@ -101,6 +101,9 @@ Third-party certifications are key! They will help you to distinguish one mattre
 Don’t wait until you start experiencing health issues! Your health is not worth the gamble. Even if you lead a healthy lifestyle, toxic chemicals are now everywhere in our environment. In the 1990’s the Environmental Protection Agency did a landmark study where they found a shocking conclusion: most of our exposure to pollutants happens indoors, from products we choose to use. Since we spend a third of our life in bed, a certified organic mattress greatly reduces your exposure to toxins! And, it’s a very easy and quick, yet very impactful change to make! Easy win!
 
 Further, viruses, bacteria, and more can linger deep inside the folds of traditional mattresses waiting for the time to cause havoc in your life. That isn’t the case with natural mattresses that are antimicrobial by nature, like natural latex mattresses. [Click on this link](https://www.sleepsuppliers.com/posts/microbe-resitant-mattress) to read more about how you can avoid having germs trapped inside your mattress.
+
+Natural latex mattresses are also [highly recomended by chiropractors, orthopedic specialists](https://www.sleepsuppliers.com/latex-mattress/#Why_Natural_Latex) and sleep specialists. Natural latex mattresses are believed to provide a better quality of sleep. They give you a feeling that gently cradles the pressure points of your body, which helps to relieve aches and pains & promote deep sleep. 
+
 
 
 ## The only downside of fully certified organic mattresses:

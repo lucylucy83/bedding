@@ -17,7 +17,7 @@ Latex is a natural material derived from the sap of the rubber tree and is then 
 
 Top producers adhere to strict standards to ensure that their latex is 100% organic. They don’t use synthetic fertilizers and pesticides. Their manufacturing methods also ensure that the purity of the final product is not compromised. Arpico latex is considered among the best natural organic latex.
 
-<h2 id="anchor-name">Why Natural Latex</h2>
+<h2 id="Why_Natural_Latex">Why Natural Latex</h2>
 
 A natural latex mattress is often recommended by chiropractors and orthopedic specialists because of its buoyant feeling that gently cradles the pressure points of your body, which helps to relieve aches and pains & promote deep sleep. 
 
